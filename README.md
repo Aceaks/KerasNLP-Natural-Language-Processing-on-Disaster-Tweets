@@ -1,4 +1,4 @@
-# KerasNLP-Natural-Language-Processing-on-Disaster-Tweets
+# Natural-Language-Processing-on-Disaster-Tweets-using-KerasNLP
 
 This starter file uses the DistilBERT pretrained model from KerasNLP.
 
